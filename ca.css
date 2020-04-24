@@ -1,0 +1,50 @@
+#file{
+	width: 1000px;
+	background-color: #F5F2D0;
+	margin: 0 auto;
+
+}
+
+#body{
+		z-index: 2;
+	position: relative;
+
+	
+}
+
+.input{
+	margin-top:10px; 
+
+}
+
+#output{
+	margin-top:8px; 
+	height: 80px;
+	width: 380px;
+	text-align: right;
+	font-size: 40px;
+	letter-spacing: 8px;
+	box-shadow: 0 4px 8px 0;
+	transition: .3s;
+	margin-bottom: 10px;
+
+}
+.btn{
+
+	width: 93px;
+	height: 40px;
+	margin: 0;
+	padding: 0;
+	background-color: black;
+	color: white;
+}
+
+.btn2{
+	background-color: skyblue;
+}
+
+.btn:hover{
+	background-color:pink;
+	z-index: 2;
+	position: relative;
+}
